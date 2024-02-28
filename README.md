@@ -1,5 +1,5 @@
 # bun-template
-[![npm version](https://badge.fury.io/js/auto-publish.svg)](https://www.npmjs.com/package/auto-publish)
+[![npm version](https://badge.fury.io/js/@dobuki%2Fauto-publish.svg)](https://www.npmjs.com/package/@dobuki/auto-publish)
 
 ![](https://jacklehamster.github.io/auto-publish/icon.png)
 
