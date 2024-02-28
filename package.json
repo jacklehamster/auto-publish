@@ -18,7 +18,6 @@
   "scripts": {
     "auto-publish": "./auto-publish.sh $npm_config_param",
     "make-repo-ssh": "./make-repo-ssh.sh",
-    "np": "bun run make-repo-ssh && bun run autocommit && np",
     "test": "echo 'No test'"
   },
   "homepage": "<fill in homepage>",
@@ -35,5 +34,8 @@
   },
   "dependencies": {
     "@dobuki/autocommit": "^1.0.9"
+  },
+  "peerDependencies": {
+    "np": "10.x"
   }
 }

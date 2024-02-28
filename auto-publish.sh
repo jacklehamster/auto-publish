@@ -9,3 +9,4 @@ target_directory="${1:-.}"
 cd "$target_directory"
 sh "$script_dir/make-repo-ssh.sh"
 npm explore @dobuki/autocommit -- bun run autocommit \"$(pwd)\"
+np
