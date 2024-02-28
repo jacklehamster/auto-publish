@@ -34,8 +34,5 @@
   },
   "dependencies": {
     "@dobuki/autocommit": "^1.0.9"
-  },
-  "peerDependencies": {
-    "np": "10.x"
   }
 }
