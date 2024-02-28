@@ -1,7 +1,7 @@
 {
   "name": "@dobuki/auto-publish",
   "description": "Some shell script for publishing directly into npmjs, using np.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "keywords": [
     "bun",
     "bunjs",
