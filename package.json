@@ -32,8 +32,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "@dobuki/autocommit": "^1.0.8",
-    "np": "^9.2.0"
+    "@dobuki/autocommit": "^1.0.8"
   },
   "engines": {
     "node": ">=14.0.0"
