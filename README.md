@@ -1,11 +1,13 @@
 # auto-publish
+
 [![npm version](https://badge.fury.io/js/@dobuki%2Fauto-publish.svg)](https://www.npmjs.com/package/@dobuki/auto-publish)
 
-![](https://jacklehamster.github.io/auto-publish/icon.png)
+![icon](https://jacklehamster.github.io/auto-publish/icon.png)
 
 ## Description
 
 This package contains some scripts to auto-publish into npmjs. It uses "np", which does most of the work, but sometimes "np" fails due to various pre-requisites not met. This package just solves that.
+
 - First, it's going to auto-commit just in case there are still un-committed item.
 - It ensures the repo is "ssh", not "https://"
 - Then just executes np.
@@ -50,7 +52,6 @@ Then you can execute the script to publish straight into npmjs:
 ```shell
 npm run auto-publish
 ```
-
 
 ## Github Source
 
