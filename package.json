@@ -33,6 +33,6 @@
     "node": ">=14.0.0"
   },
   "dependencies": {
-    "@dobuki/autocommit": "^1.0.19"
+    "@dobuki/autocommit": "^1.0.20"
   }
 }
