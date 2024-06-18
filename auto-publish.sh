@@ -8,5 +8,5 @@ target_directory="${1:-.}"
 
 cd "$target_directory"
 sh "$script_dir/make-repo-ssh.sh"
-npx @dobuki/autocommit
+NODE_NO_WARNINGS=1 npx @dobuki/autocommit
 np --no-cleanup
